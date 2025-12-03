@@ -50,13 +50,12 @@ Scope creep ? What's that ? Never heard of it.
 
 ## Stuff
 
-Exams are coming up, so I shouldn't be working too much on it for now.
-If I do and you see it, please, tell me to stop.
+This is my "dream game", and it's really big. So i don't think I'll be working
+on this any time soon.
 
-Also, I starting coding a game loop, a mini component system and all, until i
-remembered my goal isn't to make a game engine (or at least, not yet), but to do
-a game.
-So I'm starting with bevy, this time.
+That means that, for now, **THIS PROJECT IS ON MY SHELF, WAITING UNTIL I COME
+BACK**. Don't expect anything happening in the next probably 4 years (starting
+december 2025)
 
 ## Current tasks
 
